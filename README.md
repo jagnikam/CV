@@ -1,2 +1,2 @@
 # CV
-My Programatic CV using Latex
+#My Programatic CV using Latex
