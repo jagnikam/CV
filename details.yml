@@ -1,0 +1,75 @@
+---
+# Personal details
+name: Jagannath Nikam
+address:
+- Mumbai, Maharashtra
+- India - 400701
+phone: "+91 9221249010"
+email: jagnikam@gmail.com 
+# Insert URLs without http://
+urls:
+- https://www.linkedin.com/in/jagn/
+- https://github.com/jagnikam
+
+# Sections
+
+intro: "Dynamic Software Engineering professional with 15 years of exprience in research, design, implementation and support of software, Data Pipelines, ML lifecycle, configuration managemnet and DevOps practces within private or Public cloud architectures. Proven track record in the successful implementation of Agile methodologies, continuous integration/delivery, Build and Release Management, Product development and management. Recongnized for effective leadership in developing the high performance, collaborative, cohesive teams that eliminate barriers, improve efficiency and deliver business goals and Objectives."
+
+skills:
+- Product Management, DevOps Leadership, Software engineering, 
+- Team Leadership, Automation, Budget Management, Presales Services
+- Github, Jenkins, Puppet, Docker, Kubernetes, 
+- Python, Airflow, Kubeflow, Hadoop, Kafka,
+- AWS, GCP, Azure, Linux, Terraform
+- Databricks, Mysql MongoDB, Snowflake
+
+experience:
+- years: Aug 2018  to Till date
+  employer: Sigmoid
+  job: Sr. Engineering Manager
+  city: Bangalore
+- years: Mar 2016 to Aug 2018
+  employer: DevOpsTech Solutions Pvt Ltd
+  job: Founder
+  city: Mumbai 
+- years: May 2015 to Jan 2018
+  employer: Scalable Architecture Software Pvt. Ltd
+  job: DevOps Lead - Consultant
+  city: Mumbai 
+- years: July 2013 to May 2015
+  employer: Ness Technologies Pvt. Ltd 
+  job: DevOps Lead - Consultant
+  city: Mumbai  
+- years: July 2013 to May 2015
+  employer: 	QuickStartGlobal India Pvt Ltd (Addteq)
+  job: DevOps Lead - Consultant
+  city: Mumbai
+- years: March 2012 – Oct 2012 
+  employer: 	Saba Software India Pvt. Ltd. 	
+  job: DevOps Lead - Consultant
+  city: Mumbai
+- years: July 2010 – March 2012
+  employer: 	Cybercom Datamatics Information Solutions.
+  job: DevOps Lead - Consultant
+  city: Mumbai
+- years: Jan 2008 – July 2010 
+  employer: 	Neural IT Pvt. Ltd	
+  job: DevOps Lead - Consultant
+  city: Mumbai
+- years: Oct 2006 – Jan 2008 
+  employer: 	•	Icicle Technologies Pvt Ltd.	  
+  job: DevOps Lead - Consultant
+  city: Mumbai
+
+education:
+- year: 2005-2008
+  subject: Batchlor of Commerce
+  institute: Mumbai University 
+  city: Mumbai
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 10pt
+lang: en-GB
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
